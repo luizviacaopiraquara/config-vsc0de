@@ -73,5 +73,6 @@
     },
     "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
     "terminal.integrated.fontSize": 16,
-    "window.customTitleBarVisibility": "never"
+    "window.customTitleBarVisibility": "never",
+    "workbench.panel.showLabels": false
 }
