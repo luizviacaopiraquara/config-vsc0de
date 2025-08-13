@@ -37,7 +37,7 @@
   "editor.parameterHints.enabled": false,
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.lightbulb.enabled": "off",
-  "editor.hover.enabled": true,
+  "editor.hover.enabled": true, // mostra detalhes do erro ao ficar com o mouse em cima
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": true,
   "scm.diffDecorations": "none",
