@@ -9,7 +9,6 @@
   "breadcrumbs.enabled": false,
   "workbench.secondarySideBar.defaultVisibility": "hidden",
   "workbench.sideBar.location": "right",
-  "workbench.iconTheme": "symbols",
   "symbols.hidesExplorerArrows": true,
   "workbench.tree.enableStickyScroll": false,
   "workbench.tree.renderIndentGuides": "none",
@@ -69,15 +68,16 @@
     "**/node_modules": true
   },
   "files.exclude": {
-    "**/node_modules": true
+    "**/node_modules": true,
+    "**/.next": true
   },
   "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
   "terminal.integrated.fontSize": 16,
   "workbench.panel.showLabels": false,
   "window.commandCenter": false,
   "workbench.layoutControl.enabled": false,
-  "window.customTitleBarVisibility": "never",
   "git.enableSmartCommit": true,
   "git.confirmSync": false,
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "workbench.iconTheme": "symbols"
 }
