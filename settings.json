@@ -44,7 +44,7 @@
   "editor.lineNumbers": "on",
   "editor.tabSize": 2,
   "editor.detectIndentation": false,
-  "editor.showFoldingControls": "never",
+  "editor.showFoldingControls": "always",
   "editor.guides.indentation": false,
   "editor.renderWhitespace": "none",
   "editor.renderLineHighlight": "none",
