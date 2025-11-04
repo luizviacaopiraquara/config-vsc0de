@@ -83,5 +83,9 @@
   "git.confirmSync": false,
   "editor.formatOnSave": true,
   "explorer.confirmPasteNative": false,
-  "terminal.integrated.enableMultiLinePasteWarning": "never"
+  "terminal.integrated.enableMultiLinePasteWarning": "never",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "workbench.editor.wrapTabs": true,
+  "editor.wordWrap": "on",
+  "diffEditor.wordWrap": "on"
 }
