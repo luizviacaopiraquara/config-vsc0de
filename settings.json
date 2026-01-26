@@ -21,7 +21,7 @@
   "git.decorations.enabled": true,
   "window.zoomLevel": 3,
   "window.titleBarStyle": "native",
-  "window.menuBarVisibility": "hidden",
+  "window.menuBarVisibility": "compact",
   "editor.fontFamily": "JetBrains Mono",
   "editor.multiCursorModifier": "ctrlCmd",
   "editor.cursorBlinking": "solid",
@@ -60,25 +60,23 @@
   "emmet.triggerExpansionOnTab": true,
   "files.autoSave": "onFocusChange",
   "workbench.colorCustomizations": {
-    "sideBar.background": "#1f1f1f"
+    "sideBar.background": "#1f1f1f",
   },
   "update.mode": "none",
   "extensions.ignoreRecommendations": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "search.exclude": {
     "**/node_modules": true,
-    "**/.next": true
+    "**/.next": true,
   },
   "files.exclude": {
     "**/node_modules": true,
-    "**/.next": true
+    "**/.next": true,
   },
   "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
   "terminal.integrated.fontSize": 16,
   "workbench.panel.showLabels": false,
-  "window.commandCenter": false,
   "workbench.layoutControl.enabled": false,
-  "window.customTitleBarVisibility": "never",
   "git.enableSmartCommit": true,
   "git.confirmSync": false,
   "editor.formatOnSave": true,
@@ -87,5 +85,10 @@
   "terminal.integrated.defaultProfile.windows": "Git Bash",
   "workbench.editor.wrapTabs": true,
   "editor.wordWrap": "on",
-  "diffEditor.wordWrap": "on"
+  "diffEditor.wordWrap": "on",
+  "workbench.navigationControl.enabled": false,
+  "window.commandCenter": false,
+  "window.customTitleBarVisibility": "never",
+  "git.postCommitCommand": "none",
+  "git.showPushSuccessNotification": true,
 }
