@@ -1,5 +1,7 @@
 {
   "workbench.colorTheme": "Min Dark",
+  "editor.minimap.size": "proportional",
+  "editor.minimap.maxColumn": 60,
   "workbench.iconTheme": "symbols",
   "workbench.secondarySideBar.defaultVisibility": "hidden",
   "chat.commandCenter.enabled": false,
