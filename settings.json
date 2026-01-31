@@ -1,4 +1,12 @@
 {
+  //extensões
+  //min theme
+  //prettier
+  //prisma
+  //sqlite viewer
+  //symbols
+  //tailwind css intelli
+  //thunder client
   "workbench.colorTheme": "Min Dark",
   "workbench.activityBar.location": "bottom",
   "workbench.editor.showTabs": "single",
