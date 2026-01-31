@@ -18,7 +18,7 @@
   "window.menuBarVisibility": "hidden",
   "window.commandCenter": false,
   "workbench.sideBar.location": "right",
-  "workbench.activityBar.location": "hidden",
+  "workbench.activityBar.location": "bottom",
   "workbench.editor.showTabs": "none",
   "workbench.statusBar.visible": false,
   "workbench.startupEditor": "none",
@@ -100,7 +100,6 @@
   "diffEditor.wordWrap": "on",
   "git.postCommitCommand": "none",
   "git.showPushSuccessNotification": true,
-  "window.customTitleBarVisibility": "never",
   "terminal.integrated.initialHint": false,
   "window.titleBarStyle": "custom",
   "explorer.fileNesting.patterns": {
