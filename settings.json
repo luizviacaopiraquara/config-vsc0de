@@ -18,7 +18,7 @@
   "window.menuBarVisibility": "hidden",
   "window.commandCenter": false,
   "workbench.sideBar.location": "right",
-  "workbench.activityBar.location": "bottom",
+  "workbench.activityBar.location": "hidden",
   "workbench.editor.showTabs": "none",
   "workbench.statusBar.visible": false,
   "workbench.startupEditor": "none",
@@ -120,4 +120,5 @@
   "window.title": "${activeEditorShort}",
   "workbench.editor.labelFormat": "short",
   "breadcrumbs.enabled": false,
+  "chat.disableAIFeatures": true,
 }
