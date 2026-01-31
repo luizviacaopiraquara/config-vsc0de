@@ -1,3 +1,11 @@
+// custom ui style
+// min theme
+// prettier
+// prisma
+// sqlite viewer
+// symbols
+// tailwind css intellisense
+
 {
   "workbench.colorTheme": "Min Dark",
   "editor.minimap.size": "proportional",
